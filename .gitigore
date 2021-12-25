@@ -1,4 +1,4 @@
-# Build directories
+# Build directories and some other
 bin/
 obj/
 logs/
