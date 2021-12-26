@@ -1,0 +1,9 @@
+# Build directories and some other
+bin/
+obj/
+logs/
+.vs/
+pkg/
+packages/
+Backup*/
+TestResults/
