@@ -7,7 +7,7 @@ namespace Var1
     {
         static void Main(string[] args)
         {
-            double k, z;              
+            double k, z;
             while (true)
             {
                 bool readResult = ConsoleReader.TryReadDoubleFromConsole("k", out k);
